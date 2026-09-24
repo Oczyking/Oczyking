@@ -14,10 +14,6 @@ I enjoy building practical applications and understanding how to make them more 
 
 Python · JavaScript · Java · Kotlin · Flask · PostgreSQL · SQLite · Docker · Git · AWS
 
-### Selected projects
-
-- **Hospital Management System** — A Flask application with user authentication, roles, password reset, and controlled file uploads and downloads.
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/mathias-toverud-l%C3%B8kken-859a9b1b4/)
