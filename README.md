@@ -17,7 +17,6 @@ Python · JavaScript · Java · Kotlin · Flask · PostgreSQL · SQLite · Docke
 ### Selected projects
 
 - **Hospital Management System** — A Flask application with user authentication, roles, password reset, and controlled file uploads and downloads.
-- **Password Security Exercises** — Python projects covering password generation, hashing, and verification.
 
 ### Connect
 
